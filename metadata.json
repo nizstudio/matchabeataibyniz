@@ -1,0 +1,6 @@
+{
+  "name": "MatchaBeats AI",
+  "description": "AI sound synthesizer and beat assistant for video editors, content creators, and music producers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
